@@ -8,3 +8,4 @@ The following projects will be used as reference.
 1.  [orianna-zzo/AllinOne](https://github.com/orianna-zzo/AllinOne)
 2.  [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder)
 3.  [Gleen McComb's article for hugo-pagination building](https://glennmccomb.com/articles/how-to-build-custom-hugo-pagination/)
+4.  [Zeolearn/develop-a-theme-for-hugo](https://www.zeolearn.com/magazine/develop-a-theme-for-hugo)
