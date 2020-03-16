@@ -1,0 +1,5 @@
+<section>
+  {{ with .Site.Params.avatarurl }}
+    <div class="avatar"><img src="{{ . | relURL }}" alt="Avatar"></div>
+  {{ end }}
+</section>
